@@ -1,0 +1,12 @@
+.landing-page
+{
+  background: url("https://images.pexels.com/photos/775999/pexels-photo-775999.jpeg?cs=srgb&dl=pexels-min-an-775999.jpg&fm=jpg") scroll center;
+  background-size: cover;
+  height: 100vh;
+}
+
+.wrapper
+{
+  background-color: rgba(0,0,0,0.2);
+  height: 100%;
+}
